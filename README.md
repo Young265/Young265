@@ -4,8 +4,11 @@
 I'm Beginner developer 🏫 from South Korea 🇰🇷
 
 
+
 ## I’m currently learning ... 🌱
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
+
 
 ## Github Stats 💫
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young265)](https://github.com/anuraghazra/github-readme-stats)
