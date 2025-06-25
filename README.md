@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=CE1A1A&height=300&text=Welcome%20to%20my%20github&fontColor=FFFFFF)
 
 ## 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ## Github Stats 💫
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Young265)](https://github.com/anuraghazra/github-readme-stats)
