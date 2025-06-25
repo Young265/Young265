@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=CE1A1A&height=300&text=Welcome%20to%20my%20github&fontColor=FFFFFF)
 
+## About Me ✋
+I'm Beginner developer 🏫 from South Korea 🇰🇷
+
+
 ## I’m currently learning ... 🌱
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
