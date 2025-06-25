@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=CE1A1A&height=300&text=Welcome%20to%20my%20github&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=venom&color=CE1A1A&height=300&text=Welcome%20to%20my%20github&fontColor=FFFFFF)
 ## Hi there 👋
 ### Thanks
 
